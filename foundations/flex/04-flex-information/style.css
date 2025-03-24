@@ -24,3 +24,16 @@ img {
   justify-content: center;
   background: #eee;
 }
+.title{
+  display: flex;
+  justify-content: center;
+  margin: 32px;
+}
+.icons{
+  display: flex;
+  margin: 25px;
+}
+.text{
+  display: flex;
+  flex-flow:column wrap;
+}
